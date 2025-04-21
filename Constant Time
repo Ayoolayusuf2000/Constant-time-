@@ -1,0 +1,2 @@
+def constant_time_example(arr):
+    return arr[0] if arr else None
